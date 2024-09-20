@@ -2,6 +2,10 @@
 
 A new Flutter project.
 
+```
+Nama    : Lukman Eka Septiawan
+Kelas   : TI-3C
+```
 ## Getting Started
 
 This project is a starting point for a Flutter application.
